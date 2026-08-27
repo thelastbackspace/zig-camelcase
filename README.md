@@ -1,5 +1,7 @@
 # camelcase
 
+[![CI](https://github.com/thelastbackspace/zig-camelcase/actions/workflows/ci.yml/badge.svg)](https://github.com/thelastbackspace/zig-camelcase/actions/workflows/ci.yml)
+
 Convert strings to camelCase or PascalCase — with Unicode-aware case
 mapping, digit handling, and acronym preservation.
 
